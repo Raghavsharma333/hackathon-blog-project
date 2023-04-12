@@ -1,1 +1,0 @@
-# hackathon-blog-project
